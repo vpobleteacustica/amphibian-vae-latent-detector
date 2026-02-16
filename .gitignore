@@ -1,0 +1,29 @@
+# OS / editors
+.DS_Store
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+venv/
+.env/
+
+# Data / models / outputs (NO subir)
+data/
+models/
+downloaded_models/
+outputs/
+runs/
+*.pt
+*.pth
+*.ckpt
+*.parquet
+*.npz
+
+# Logs
+*.log
