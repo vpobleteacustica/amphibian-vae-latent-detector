@@ -31,6 +31,7 @@ in the learned latent space.
 ## 2. Repository Structure: 
 
 latent_space_exploration/
+
 00_normalize_dataset_rms.py
 07_encode_wav_to_latent.py
 08_fit_radial_detector.py
